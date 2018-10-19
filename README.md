@@ -119,7 +119,7 @@ export default {
         start: 0,
         dir: 'v',
         duration: 500,
-        beforeChange: function (prev, next) {
+        beforeChange: function ( HTMLElement_prev, prev, next) {
         },
         afterChange: function (prev, next) {
         }
